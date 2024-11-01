@@ -80,10 +80,10 @@ city2_lon = float(input("Введите долготу второго город
 
 distance = haversine(city1_lat, city1_lon, city2_lat, city2_lon)
 print(f"Расстояние между городами: {distance:.2f} км")
+input("Нажмите Enter для выхода")
 Ответ и код предоставлен в скриншоте.
-![image](https://github.com/user-attachments/assets/168b64cc-9927-43c3-9575-5fb50495128a)
-![image](https://github.com/user-attachments/assets/fc243275-f3fc-449d-8179-a0cd5371c611)
-![image](https://github.com/user-attachments/assets/031ece63-3989-465e-bbe9-d82ed78a36bc)
+![image](https://github.com/user-attachments/assets/9ce2b757-3787-4407-8fd3-d5db3cd3d6be)
+
 ## Документация 
 Программа на языке Python предназначена для расчета расстояния между двумя городами на основе их географических координат (широта и долгота). Она может быть полезна для туристов, планирующих путешествия, логистических компаний, а также для научных исследований в области географии.
 
