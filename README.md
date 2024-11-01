@@ -120,6 +120,7 @@ input("Нажмите Enter для выхода")
 ## Лицензия
 Python Software Foundation License — BSD-подобная пермиссивная лицензия на свободное ПО, совместимая с GNU General Public License. 
 Её первичное назначение — распространение программного проекта Python.
+## Телеграм автора https://t.me/rompetrosiann
 
 
 
